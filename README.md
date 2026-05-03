@@ -11,6 +11,7 @@ The main objective of this project is to understand customer purchase patterns, 
 - Power BI (Dashboard Creation, KPI Tracking, Interactive Visualizations)
 - MySQL (Database Storage and Query Execution)
 - Excel / CSV (Raw Dataset Handling)
+- Gamma AI (Business Report Presentation and Project Documentation)
 
 ## 🔄 Project Workflow
 
@@ -62,6 +63,14 @@ This project demonstrates how raw customer transaction data can be transformed i
 ## 📸 Dashboard Preview
 
 ![Customer Behavior Dashboard](Customers_Behavior_of_Dashboard.JPG)
+
+## 📄 Project Report
+
+![Project Report Preview](Customer-Shopping-Behavior-Analysis-page-1.jpg)
+
+A detailed business report and presentation created using Gamma AI is included for better project understanding.
+
+👉 [View Full Project Report](https://drive.google.com/file/d/17Y-23UlK0OKLJB2zUyBtudFGAGoOEmEA/view)
 
 ## 👨‍💻 Author
 
